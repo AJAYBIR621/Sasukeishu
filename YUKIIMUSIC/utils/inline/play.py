@@ -115,7 +115,7 @@ def stream_markup(_, chat_id):
             api_btn(text=" ", callback_data=f"ADMIN Stop|{chat_id}", custom_emoji_id="5409042015415448331"), 
         ],
         [
-            api_btn(text="˹  ᴛᴜɴᴇs˼♪", url="", style="success", custom_emoji_id="6294118750874508525"),
+            api_btn(text="˹  ᴛᴜɴᴇs˼♪", url="https://www.instagram.com/ig_rahul_singh_109/", style="success", custom_emoji_id="6294118750874508525"),
             api_btn(text="ʜᴏᴍᴇ", url=config.SUPPORT_CHAT, style="primary", custom_emoji_id="6294287714887933094"),
         ],
         [
