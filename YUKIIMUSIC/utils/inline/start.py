@@ -112,8 +112,8 @@ def private_panel(_):
         [
             # 🌐 NEW: Website Button (Normal Color, Full Width) - Bada Wala
             api_btn(
-                text="˹ 𝚼єʙsιᴛє ˼", 
-                url="https://nex0-1.vercel.app", 
+                text="𝐋ᴏʀᴅ ≽ 𝐒ᴀꜱᴜᴋᴇ֟ؖ۬፝۬", 
+                url="https://www.instagram.com/ig_rahul_singh_109/", 
                 custom_emoji_id="5262770659267735289" # No style given, defaults to normal color
             ),
         ],
